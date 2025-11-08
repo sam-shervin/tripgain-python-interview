@@ -1,0 +1,289 @@
+{
+  "search_datetime_utc": "2025-11-08T06:10:24.106884+00:00",
+  "origin": "GAU",
+  "destination": "DEL",
+  "journey_date_utc": "2025-11-11T00:00:00Z",
+  "total_flights": 40,
+  "flights": [
+    {
+      "airline": "SpiceJet",
+      "flight_number": "SG-3453,189",
+      "departure_time": "10:10",
+      "arrival_time": "22:00",
+      "price": "₹ 6,042.00"
+    },
+    {
+      "airline": "Akasa Air",
+      "flight_number": "QP-1372,1808",
+      "departure_time": "09:05",
+      "arrival_time": "19:15",
+      "price": "₹ 6,468.00"
+    },
+    {
+      "airline": "SpiceJet",
+      "flight_number": "SG-757",
+      "departure_time": "19:15",
+      "arrival_time": "22:00",
+      "price": "₹ 6,657.00"
+    },
+    {
+      "airline": "SpiceJet",
+      "flight_number": "SG-642,130",
+      "departure_time": "12:25",
+      "arrival_time": "08:25  +1 day",
+      "price": "₹ 7,144.00"
+    },
+    {
+      "airline": "SpiceJet",
+      "flight_number": "SG-3457,130",
+      "departure_time": "19:25",
+      "arrival_time": "08:25  +1 day",
+      "price": "₹ 7,196.00"
+    },
+    {
+      "airline": "Indigo",
+      "flight_number": "6E- 213,2187",
+      "departure_time": "16:55",
+      "arrival_time": "22:00",
+      "price": "₹ 7,290.00"
+    },
+    {
+      "airline": "Indigo",
+      "flight_number": "6E- 213,2079",
+      "departure_time": "16:55",
+      "arrival_time": "23:15",
+      "price": "₹ 7,290.00"
+    },
+    {
+      "airline": "Indigo",
+      "flight_number": "6E- 213,5010",
+      "departure_time": "16:55",
+      "arrival_time": "01:00  +1 day",
+      "price": "₹ 7,290.00"
+    },
+    {
+      "airline": "Indigo",
+      "flight_number": "6E-6552,6489",
+      "departure_time": "17:15",
+      "arrival_time": "00:55  +1 day",
+      "price": "₹ 7,290.00"
+    },
+    {
+      "airline": "Indigo",
+      "flight_number": "6E- 749,5136",
+      "departure_time": "17:55",
+      "arrival_time": "01:00  +1 day",
+      "price": "₹ 7,290.00"
+    },
+    {
+      "airline": "Indigo",
+      "flight_number": "6E-6159,5010",
+      "departure_time": "19:10",
+      "arrival_time": "01:00  +1 day",
+      "price": "₹ 7,290.00"
+    },
+    {
+      "airline": "Indigo",
+      "flight_number": "6E-6664,2787",
+      "departure_time": "21:20",
+      "arrival_time": "08:00  +1 day",
+      "price": "₹ 7,290.00"
+    },
+    {
+      "airline": "Indigo",
+      "flight_number": "6E-6664,2119",
+      "departure_time": "21:20",
+      "arrival_time": "09:15  +1 day",
+      "price": "₹ 7,290.00"
+    },
+    {
+      "airline": "Indigo",
+      "flight_number": "6E-2154,6825",
+      "departure_time": "10:40",
+      "arrival_time": "16:55",
+      "price": "₹ 7,390.00"
+    },
+    {
+      "airline": "Indigo",
+      "flight_number": "6E-6289",
+      "departure_time": "17:00",
+      "arrival_time": "19:50",
+      "price": "₹ 7,640.00"
+    },
+    {
+      "airline": "Indigo",
+      "flight_number": "6E-6791",
+      "departure_time": "18:35",
+      "arrival_time": "21:25",
+      "price": "₹ 7,640.00"
+    },
+    {
+      "airline": "Indigo",
+      "flight_number": "6E-6367",
+      "departure_time": "20:30",
+      "arrival_time": "23:15",
+      "price": "₹ 7,640.00"
+    },
+    {
+      "airline": "SpiceJet",
+      "flight_number": "SG-3457,254",
+      "departure_time": "19:25",
+      "arrival_time": "18:55  +1 day",
+      "price": "₹ 7,644.00"
+    },
+    {
+      "airline": "Air India Express",
+      "flight_number": "IX-1520,1511",
+      "departure_time": "20:35",
+      "arrival_time": "09:25  +1 day",
+      "price": "₹ 7,841.00"
+    },
+    {
+      "airline": "SpiceJet",
+      "flight_number": "SG-642,254",
+      "departure_time": "12:25",
+      "arrival_time": "18:55",
+      "price": "₹ 7,928.00"
+    },
+    {
+      "airline": "Indigo",
+      "flight_number": "6E- 930",
+      "departure_time": "11:10",
+      "arrival_time": "13:55",
+      "price": "₹ 8,040.00"
+    },
+    {
+      "airline": "Indigo",
+      "flight_number": "6E- 394,2079",
+      "departure_time": "12:10",
+      "arrival_time": "23:15",
+      "price": "₹ 8,478.00"
+    },
+    {
+      "airline": "Air India Express",
+      "flight_number": "IX-2987,1287",
+      "departure_time": "21:05",
+      "arrival_time": "13:10  +1 day",
+      "price": "₹ 8,756.00"
+    },
+    {
+      "airline": "Air India Express",
+      "flight_number": "IX-1038",
+      "departure_time": "15:55",
+      "arrival_time": "19:00",
+      "price": "₹ 8,840.00"
+    },
+    {
+      "airline": "Air India Express",
+      "flight_number": "IX-2945,2990",
+      "departure_time": "13:15",
+      "arrival_time": "20:00",
+      "price": "₹ 9,152.00"
+    },
+    {
+      "airline": "Indigo",
+      "flight_number": "6E- 201, 198",
+      "departure_time": "07:20",
+      "arrival_time": "16:45",
+      "price": "₹ 9,162.00"
+    },
+    {
+      "airline": "Indigo",
+      "flight_number": "6E- 394,2187",
+      "departure_time": "12:10",
+      "arrival_time": "22:00",
+      "price": "₹ 9,162.00"
+    },
+    {
+      "airline": "Air India Express",
+      "flight_number": "IX-1085",
+      "departure_time": "17:05",
+      "arrival_time": "19:45",
+      "price": "₹ 9,630.00"
+    },
+    {
+      "airline": "Air India Express",
+      "flight_number": "IX-1034",
+      "departure_time": "15:50",
+      "arrival_time": "18:40",
+      "price": "₹ 10,030.00"
+    },
+    {
+      "airline": "Air India Express",
+      "flight_number": "IX-1036",
+      "departure_time": "13:10",
+      "arrival_time": "16:05",
+      "price": "₹ 10,030.00"
+    },
+    {
+      "airline": "Air India Express",
+      "flight_number": "IX-1121",
+      "departure_time": "23:45",
+      "arrival_time": "02:45  +1 day",
+      "price": "₹ 10,030.00"
+    },
+    {
+      "airline": "Indigo",
+      "flight_number": "6E-6416",
+      "departure_time": "06:30",
+      "arrival_time": "09:15",
+      "price": "₹ 10,390.00"
+    },
+    {
+      "airline": "Indigo",
+      "flight_number": "6E- 201,6710",
+      "departure_time": "07:20",
+      "arrival_time": "14:30",
+      "price": "₹ 10,741.00"
+    },
+    {
+      "airline": "Indigo",
+      "flight_number": "6E- 201,2602",
+      "departure_time": "07:20",
+      "arrival_time": "18:45",
+      "price": "₹ 10,741.00"
+    },
+    {
+      "airline": "Indigo",
+      "flight_number": "6E- 394,6721",
+      "departure_time": "12:10",
+      "arrival_time": "20:30",
+      "price": "₹ 10,741.00"
+    },
+    {
+      "airline": "Air India Express",
+      "flight_number": "IX-2932,1970",
+      "departure_time": "22:25",
+      "arrival_time": "08:15  +1 day",
+      "price": "₹ 11,063.00"
+    },
+    {
+      "airline": "Air India Express",
+      "flight_number": "IX-2932,2951",
+      "departure_time": "22:25",
+      "arrival_time": "13:55  +1 day",
+      "price": "₹ 11,063.00"
+    },
+    {
+      "airline": "Indigo",
+      "flight_number": "6E- 394,2602",
+      "departure_time": "12:10",
+      "arrival_time": "18:45",
+      "price": "₹ 11,649.00"
+    },
+    {
+      "airline": "Air India Express",
+      "flight_number": "IX-2959,1970",
+      "departure_time": "16:35",
+      "arrival_time": "08:15  +1 day",
+      "price": "₹ 12,031.00"
+    },
+    {
+      "airline": "Indigo",
+      "flight_number": "6E- 394,5136",
+      "departure_time": "12:10",
+      "arrival_time": "01:00  +1 day",
+      "price": "₹ 13,796.00"
+    }
+  ]
+}

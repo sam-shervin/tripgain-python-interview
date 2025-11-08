@@ -1,0 +1,12 @@
+# Gemini Integration and Intelligent Summarization
+# Python 3.8+
+
+# Google Generative AI SDK
+google-generativeai
+
+# HTTP requests and web scraping
+requests
+beautifulsoup4
+
+# Optional: For enhanced error handling
+python-dotenv
